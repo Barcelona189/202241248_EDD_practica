@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "John Doe",
+        "nacionalidad": "US",
+        "numero_de_pasaporte": "ABC123",
+        "vuelo": "AA100",
+        "asiento": "12A",
+        "destino": "Paris",
+        "origen": "New York",
+        "equipaje_facturado": 1
+    },
+    {
+        "nombre": "Jane Smith",
+        "nacionalidad": "UK",
+        "numero_de_pasaporte": "XYZ456",
+        "vuelo": "DL200",
+        "asiento": "7B",
+        "destino": "London",
+        "origen": "Los Angeles",
+        "equipaje_facturado": 2
+    },
+    {
+        "nombre": "Juan Pérez",
+        "nacionalidad": "MX",
+        "numero_de_pasaporte": "DEF789",
+        "vuelo": "UA300",
+        "asiento": "25C",
+        "destino": "Mexico City",
+        "origen": "Chicago",
+        "equipaje_facturado": 2
+    },
+    {
+        "nombre": "Maria Garcia",
+        "nacionalidad": "ES",
+        "numero_de_pasaporte": "HIJ012",
+        "vuelo": "BA500",
+        "asiento": "15F",
+        "destino": "Madrid",
+        "origen": "New York",
+        "equipaje_facturado": 3
+    },
+    {
+        "nombre": "Ahmed Khan",
+        "nacionalidad": "PK",
+        "numero_de_pasaporte": "LMN345",
+        "vuelo": "EK600",
+        "asiento": "30D",
+        "destino": "Dubai",
+        "origen": "London",
+        "equipaje_facturado": 0
+    }
+]

@@ -1,0 +1,57 @@
+[
+        {
+            "vuelo": "AA100",
+            "numero_de_registro": "N123AA",
+            "modelo": "Boeing 737",
+            "fabricante": "Boeing",
+            "año_de_fabricación": 2015,
+            "capacidad": 160,
+            "peso_max_despegue": 79015,
+            "estado": "Disponible",
+            "aerolinea": "American Airlines"
+        },
+        {
+            "vuelo": "DL200",
+            "numero_de_registro": "N456DL",
+            "modelo": "Airbus A320",
+            "fabricante": "Airbus",
+            "año_de_fabricación": 2017,
+            "capacidad": 150,
+            "peso_max_despegue": 73500,
+            "estado": "Mantenimiento",
+            "aerolinea": "Delta Airlines"
+        },
+        {
+            "vuelo": "UA300",
+            "numero_de_registro": "N789UA",
+            "modelo": "Boeing 777",
+            "fabricante": "Boeing",
+            "año_de_fabricación": 2012,
+            "capacidad": 396,
+            "peso_max_despegue": 297550,
+            "estado": "Mantenimiento",
+            "aerolinea": "United Airlines"
+        },
+        {
+            "vuelo": "SW400",
+            "numero_de_registro": "N101SW",
+            "modelo": "Boeing 737",
+            "fabricante": "Boeing",
+            "año_de_fabricación": 2018,
+            "capacidad": 162,
+            "peso_max_despegue": 79015,
+            "estado": "Disponible",
+            "aerolinea": "Southwest Airlines"
+        },
+        {
+            "vuelo": "BA500",
+            "numero_de_registro": "G-ZBJB",
+            "modelo": "Boeing 787",
+            "fabricante": "Boeing",
+            "año_de_fabricación": 2016,
+            "capacidad": 242,
+            "peso_max_despegue": 227930,
+            "estado": "Mantenimiento",
+            "aerolinea": "British Airways"
+        }
+]
